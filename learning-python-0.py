@@ -2,6 +2,8 @@
 Utilisation des packages :
 - requests
 - BeautifulSoup
+
+Exemple d'Extract-transform-load ou datapumping
 """
 
 import requests
